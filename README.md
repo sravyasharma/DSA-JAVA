@@ -27,6 +27,7 @@
 | [0164-maximum-gap](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0217-contains-duplicate) |
@@ -401,6 +402,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
@@ -555,6 +557,7 @@
 | [0112-path-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0332-reconstruct-itinerary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0332-reconstruct-itinerary) |
@@ -585,6 +588,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
@@ -902,6 +906,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
