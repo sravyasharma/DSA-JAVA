@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0066-plus-one) |
@@ -185,6 +186,7 @@
 | [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
@@ -274,6 +276,7 @@
 | [0012-integer-to-roman](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
@@ -331,6 +334,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0164-maximum-gap) |
