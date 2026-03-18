@@ -110,6 +110,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -420,6 +421,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
@@ -816,6 +818,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3714-longest-balanced-substring-ii) |
