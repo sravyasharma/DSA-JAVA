@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
@@ -157,6 +158,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
@@ -679,6 +682,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
@@ -938,4 +942,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
