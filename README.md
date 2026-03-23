@@ -80,6 +80,7 @@
 | [1470-shuffle-the-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -422,6 +423,7 @@
 | [0994-rotting-oranges](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -453,6 +455,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [1236-n-th-tribonacci-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1236-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
