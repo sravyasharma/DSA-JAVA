@@ -389,6 +389,7 @@
 | [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0371-sum-of-two-integers) |
@@ -448,6 +449,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0397-integer-replacement) |
@@ -618,6 +620,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
