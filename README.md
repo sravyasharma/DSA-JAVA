@@ -145,6 +145,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -170,6 +171,7 @@
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0696-count-binary-substrings) |
@@ -393,6 +395,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
