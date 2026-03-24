@@ -6,8 +6,10 @@ class Solution {
         dfs(image,sr,sc,tar,color);
         return image;
     }
-    public static void dfs(int[][] image,int sr,int sc,int tar,int color){
-        if(sr<0 || sc<0 || sr>=image.length || sc>=image[0].length) return;
+    private void dfs(int[][] image,int sr,int sc,int tar,int color){
+        if(sr<0 || sc<0 || sr>=image.length || sc>=image[0].length || image[sr][sc]==color){
+            return;
+        }
         if(image[sr][sc]!=tar) return;
         image[sr][sc]=color;
         dfs(image,sr+1,sc,tar,color);
