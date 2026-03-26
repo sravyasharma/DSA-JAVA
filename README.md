@@ -204,6 +204,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
@@ -294,6 +295,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
@@ -814,6 +816,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0219-contains-duplicate-ii) |
