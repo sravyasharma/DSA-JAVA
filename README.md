@@ -107,6 +107,7 @@
 | [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2540-minimum-common-value) |
+| [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2917-find-the-k-or-of-an-array) |
@@ -275,6 +276,7 @@
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2399-check-distances-between-same-letters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2418-sort-the-people) |
+| [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [2716-minimize-string-length](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -443,6 +445,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3546-equal-sum-grid-partition-i) |
@@ -477,6 +480,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1668-maximum-repeating-substring) |
+| [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -784,6 +788,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph
@@ -961,6 +966,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0200-number-of-islands) |
+| [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
