@@ -209,6 +209,7 @@
 | [0013-roman-to-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0076-minimum-window-substring) |
@@ -472,6 +473,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0096-unique-binary-search-trees) |
@@ -905,6 +907,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0079-word-search) |
