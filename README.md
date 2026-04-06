@@ -64,6 +64,7 @@
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
@@ -331,6 +332,7 @@
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0819-most-common-word) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0874-walking-robot-simulation) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1189-maximum-number-of-balloons) |
@@ -547,6 +549,7 @@
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
