@@ -453,6 +453,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
