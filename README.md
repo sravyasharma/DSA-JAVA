@@ -429,6 +429,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0371-sum-of-two-integers) |
@@ -996,6 +997,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2396-strictly-palindromic-number) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3674-minimum-operations-to-equalize-array) |
