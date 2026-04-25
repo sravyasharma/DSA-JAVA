@@ -51,6 +51,7 @@
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0565-array-nesting](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0565-array-nesting) |
 | [0643-maximum-average-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
@@ -655,6 +656,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0565-array-nesting](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0565-array-nesting) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0733-flood-fill) |
