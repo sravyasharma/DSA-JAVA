@@ -131,6 +131,7 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -167,6 +168,7 @@
 | [2540-minimum-common-value](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
@@ -415,6 +417,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
@@ -455,6 +458,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
@@ -941,6 +945,7 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Monotonic Queue
 |  |
 | ------- |
