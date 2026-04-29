@@ -127,6 +127,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3206-alternating-groups-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3206-alternating-groups-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
@@ -489,6 +490,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -527,6 +529,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -920,6 +923,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3548-equal-sum-grid-partition-ii) |
