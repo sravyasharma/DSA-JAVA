@@ -222,6 +222,7 @@
 | [0014-longest-common-prefix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0076-minimum-window-substring) |
