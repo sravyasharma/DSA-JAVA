@@ -200,6 +200,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
@@ -256,6 +257,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
@@ -576,6 +578,7 @@
 | [0067-add-binary](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -766,6 +769,7 @@
 | [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0844-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
