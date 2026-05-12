@@ -88,6 +88,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1748-sum-of-unique-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1748-sum-of-unique-elements) |
@@ -414,6 +415,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -845,6 +847,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
