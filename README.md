@@ -79,6 +79,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1306-jump-game-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -685,6 +686,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -717,6 +719,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1005-univalued-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1731-even-odd-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1731-even-odd-tree) |
 ## Binary Tree
