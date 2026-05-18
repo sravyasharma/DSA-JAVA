@@ -74,6 +74,7 @@
 | [0994-rotting-oranges](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1089-duplicate-zeros) |
 | [1127-last-stone-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1127-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -416,6 +417,7 @@
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -1057,4 +1059,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
