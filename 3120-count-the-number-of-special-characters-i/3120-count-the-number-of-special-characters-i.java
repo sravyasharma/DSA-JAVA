@@ -1,11 +1,15 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
         int count=0;
-        for(char i='a';i<='z';i++){
-            if(word.indexOf(i)!=-1 && word.indexOf(Character.toUpperCase(i))!=-1 ){
-                count++;
-            }
+        Set<Character> set1=new HashSet<>(), set2=new HashSet<>();
+        for(char c:word.toCharArray()){
+            if(Character.isLowerCase(c)) set1.add(c);
+            else set2.add(Character.toLowerCase(c));
         }
+        for(char c:set1){
+            if(set2.contains(c)) count++;
+        }
+
         return count;
     }
 }
