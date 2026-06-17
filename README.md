@@ -55,6 +55,7 @@
 | [0506-relative-ranks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0565-array-nesting) |
+| [0575-distribute-candies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
@@ -363,6 +364,7 @@
 | [0409-longest-palindrome](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0692-top-k-frequent-words) |
