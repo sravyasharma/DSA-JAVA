@@ -498,6 +498,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
@@ -567,6 +568,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
