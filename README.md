@@ -196,6 +196,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0075-sort-colors) |
@@ -1026,6 +1027,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0142-linked-list-cycle-ii) |
