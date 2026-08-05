@@ -219,6 +219,7 @@
 | [0844-backspace-string-compare](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0845-longest-mountain-in-array) |
 | [0875-longest-mountain-in-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0875-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0905-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1019-squares-of-a-sorted-array) |
@@ -1021,6 +1022,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
