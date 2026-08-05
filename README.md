@@ -205,6 +205,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -604,6 +605,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0241-different-ways-to-add-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -819,6 +821,7 @@
 | [0042-trapping-rain-water](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0844-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0933-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0946-validate-stack-sequences) |
@@ -1032,6 +1035,7 @@
 | [0141-linked-list-cycle](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
