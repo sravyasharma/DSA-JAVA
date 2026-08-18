@@ -147,6 +147,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3453-separate-squares-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -407,6 +408,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
