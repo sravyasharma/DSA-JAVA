@@ -54,6 +54,7 @@
 | [0455-assign-cookies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0506-relative-ranks) |
+| [0528-random-pick-with-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0575-distribute-candies) |
@@ -181,6 +182,7 @@
 | [0367-valid-perfect-square](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0658-find-k-closest-elements) |
@@ -489,6 +491,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0507-perfect-number) |
+| [0528-random-pick-with-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1154-day-of-the-year](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1154-day-of-the-year) |
@@ -985,6 +988,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0724-find-pivot-index) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1127,4 +1131,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0142-linked-list-cycle-ii) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Sravyeah1/DSA-JAVA-/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
