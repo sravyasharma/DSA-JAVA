@@ -1,8 +1,7 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        for(int num:nums){
-            if(num==target) return true;
-        }
-        return false;
+        Set<Integer> set=new HashSet<>();
+        for(int num:nums) set.add(num);
+        return set.contains(target);
     }
 }
