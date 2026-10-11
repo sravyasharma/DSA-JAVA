@@ -18,24 +18,20 @@ class Solution {
         Queue<TreeNode> q=new LinkedList<>();
         Queue<Integer> sumq=new LinkedList<>();
         if(root==null) return false;
-        q.offer(root);
-        sumq.offer(root.val);
+        q.add(root);
+        sumq.add(root.val);
         while(!q.isEmpty()){
             TreeNode node=q.poll();
             int sum=sumq.poll();
-            if(node.left==null && node.right==null){
-                if(sum==targetSum){
-                    return true;
+            if(node.left==null && node.right==null) if(sum==targetSum) return true;
+                if(node.left!=null){
+                    q.add(node.left);
+                    sumq.add(sum+node.left.val);
                 }
-            } 
-            if(node.left!=null) {
-                q.offer(node.left); 
-                sumq.offer(sum + node.left.val);
-            }    
-            if(node.right!=null) {
-                q.offer(node.right); 
-                sumq.offer(sum + node.right.val);
-            }    
+                if(node.right!=null){
+                    q.add(node.right);
+                    sumq.add(sum+node.right.val);
+                }
         }
         return false;
     }
