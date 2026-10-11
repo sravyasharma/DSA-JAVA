@@ -15,7 +15,7 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        Queue<TreeNode> q=new LinkedList<>();
+        /*Queue<TreeNode> q=new LinkedList<>();
         Queue<Integer> sumq=new LinkedList<>();
         if(root==null) return false;
         q.add(root);
@@ -33,6 +33,11 @@ class Solution {
                     sumq.add(sum+node.right.val);
                 }
         }
-        return false;
+        return false;*/
+        if(root==null) return false;
+        if(root.left==null && root.right==null) return targetSum-root.val==0;
+        targetSum-=root.val;
+
+        return hasPathSum(root.left,targetSum) || hasPathSum(root.right,targetSum);
     }
 }
